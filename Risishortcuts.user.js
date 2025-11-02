@@ -8,8 +8,8 @@
 // @match        https://www.jeuxvideo.com/recherche/forums/*
 // @match        https://www.jeuxvideo.com/messages-prives/*
 // @match        https://risibank.fr/embed*
-// @downloadURL   https://github.com/moyaona/RisiShortcut/raw/refs/heads/main/Risishortcut.user.js
-// @updateURL     https://github.com/moyaona/RisiShortcut/raw/refs/heads/main/Risishortcut.user.js
+// @downloadURL   https://github.com/moyaona/RisiShortcuts/raw/refs/heads/main/Risishortcuts.user.js
+// @updateURL     https://github.com/moyaona/RisiShortcuts/raw/refs/heads/main/Risishortcuts.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_addStyle
