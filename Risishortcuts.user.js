@@ -13,7 +13,7 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_addStyle
-// @icon         https://img.icons8.com/fluency/48/keyboard.png
+// @icon         https://image.noelshack.com/fichiers/2025/44/7/1762109438-risishortcut-script.png
 // ==/UserScript==
 
 (function() {
